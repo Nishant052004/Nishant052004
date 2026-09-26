@@ -38,6 +38,22 @@
 
 ---
 
+### 🕹️ Autonomous Dev Lab • Active Session
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/workstation.gif" width="100%" alt="Nishant's Autonomous Dev Lab" style="border-radius: 12px; max-width: 920px; box-shadow: 0 0 25px rgba(0, 242, 254, 0.2);" />
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Session-Deep%20Work%20%26%20Lab%20Sprint-00F2FE?style=for-the-badge&logo=visualstudiocode&logoColor=000" alt="Deep Work" />
+    <img src="https://img.shields.io/badge/Environment-Linux%20%7C%20Docker%20%7C%20CUDA-0072FF?style=for-the-badge&logo=linux&logoColor=fff" alt="Environment" />
+    <img src="https://img.shields.io/badge/Sprint-Autonomous%20Agent%20Pipelines-4FACFE?style=for-the-badge&logo=openai&logoColor=000" alt="Focus" />
+  </p>
+</div>
+
+---
+
 ### 🏆 Engineering Trophies
 
 <div align="center">
