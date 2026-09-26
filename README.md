@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Minimalist Cyber Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Nishant%20Rai&fontSize=56&fontAlignY=36&desc=AI%20Systems%20%7C%20Full-Stack%20Architect&descFontSize=18&descAlignY=60&fontColor=ffffff&descAlign=50" width="100%"/>
+  <!-- S-Rank Cyber-Mage Hero Header Banner -->
+  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/banner.jpg" width="100%" alt="Nishant Rai - S-Rank Cyber-Mage" style="border-radius: 14px; max-width: 950px; box-shadow: 0 0 35px rgba(0, 242, 254, 0.25);" />
+
+  <br/><br/>
 
   <!-- Dynamic Typing SVG Headline in Electric Cyan -->
   <a href="https://github.com/Nishant052004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=660&height=45&lines=%E2%9A%A1+Agentic+AI+%26+Autonomous+RAG+Architect;%F0%9F%A7%A0+Human-in-the-Loop+Intelligence+Engines;%F0%9F%9A%80+Full-Stack+Web+%26+Real-Time+Telemetry+(PulseBridge);%F0%9F%A7%AA+Deep+Learning+%26+Intelligent+NLP+Systems" alt="Nishant's Dynamic Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=660&height=45&lines=%E2%9A%A1+Agentic+AI+%26+Autonomous+RAG+Architect;%F0%9F%A7%A0+Human-in-the-Loop+Intelligence+Engines;%F0%9F%9A%80+Full-Stack+Web+%26+Real-Time+Telemetry+(PulseBridge);%F0%9F%94%AE+S-Rank+Cyber-Mage+%E2%80%A2+Level+99+Architect" alt="Nishant's Dynamic Typing Headline" />
   </a>
 
   <!-- Real-time Status Badges & Profile Views -->
