@@ -18,7 +18,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/nishant-rai-07a658387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:rainishant121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Nishant052004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
@@ -35,14 +35,20 @@
 </p>
 
 <div align="center">
+<table>
+<tr><td>
 
-```
-🔭 Currently working on    →  Agentic AI systems & Full-Stack Web Apps
-🌱 Always learning         →  LLMs, RAG Architectures, System Design
-💬 Ask me about            →  Python, TypeScript, React, AI/ML
-⚡ Fun fact                →  I build entire apps in hackathon mode 🚀
-```
+| | |
+| :--- | :--- |
+| 🔭 **Currently working on** | Agentic AI systems & Full-Stack Web Apps |
+| 🌱 **Always learning** | LLMs, RAG Architectures, System Design |
+| 💬 **Ask me about** | Python, TypeScript, React, AI/ML |
+| 📫 **Reach me at** | [rainishant121@gmail.com](mailto:rainishant121@gmail.com) |
+| 🔗 **Connect with me** | [LinkedIn](https://www.linkedin.com/in/nishant-rai-07a658387) |
+| ⚡ **Fun fact** | I build entire apps in hackathon mode 🚀 |
 
+</td></tr>
+</table>
 </div>
 
 ---
