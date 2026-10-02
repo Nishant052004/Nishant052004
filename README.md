@@ -1,13 +1,11 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/banner.jpg" width="100%" alt="Nishant Rai — Full-Stack Developer & AI Engineer" style="border-radius: 14px; max-width: 950px;" />
-
-  <br/><br/>
+  <!-- Clean Name Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F2FE,100:0072FF&height=200&section=header&text=Nishant%20Rai&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descSize=18&descAlignY=55&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/Nishant052004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=700&height=50&lines=%E2%9A%A1+Full-Stack+Developer+%7C+AI+%26+ML+Engineer;%F0%9F%A7%A0+Agentic+RAG+%26+LangChain+Architect;%F0%9F%9A%80+Building+Real-Time+Apps+with+React+%26+Node.js;%F0%9F%8C%BF+Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=600&height=45&lines=%E2%9A%A1+Building+Real-Time+Apps+with+React+%26+Node.js;%F0%9F%A7%A0+Agentic+RAG+%26+LangChain+Architect;%F0%9F%8C%BF+Deep+Learning+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+Turning+Ideas+into+Deployed+Products" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -251,9 +249,8 @@
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-0d1117?style=for-the-badge" />
-
-  <br/>
   <sub>⚡ Built with passion by <b>Nishant Rai</b> • Every badge earned, not claimed</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F2FE,100:0072FF&height=120&section=footer" width="100%" />
