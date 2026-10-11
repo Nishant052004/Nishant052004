@@ -12,25 +12,6 @@
     <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/header.svg" width="100%" alt="Nishant Rai — Agentic AI Architect & Systems Engineer" />
   </a>
 
-  <br/>
-
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/Nishant052004">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=600&height=30&lines=%E2%9A%A1+designing+autonomous+agents+that+think%2C+verify%2C+and+ship;%F0%9F%94%AE+3-agent+RAG+pipelines+with+anti-hallucination+gates;%F0%9F%9B%A1%EF%B8%8F+human-in-the-loop+safety+for+production+AI;%F0%9F%A9%B8+real-time+platforms+saving+real+lives;%F0%9F%8C%BF+computer+vision+diagnosing+crop+diseases+at+scale" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Social Links — Neon Style -->
-  <a href="https://www.linkedin.com/in/nishant-rai-07a658387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:rainishant121@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/Nishant052004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Nishant052004&label=visitors&color=a855f7&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -204,19 +185,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   👾 INTERACTIVE STATUS CARD                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">👾 &nbsp; Interactive Status Card</h2>
-
-<div align="center">
-
-![Nishant Rai Profile](./.github/assets/profile.svg)
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    📊 SIGNAL TELEMETRY                            -->
