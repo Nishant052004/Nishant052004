@@ -45,11 +45,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Update profile.svg with latest Pac-Man animation
+      - name: Update profile assets with latest Pac-Man animation
         run: |
+          cp dist/pacman-contribution-graph-dark.svg .github/assets/pacman.svg
           python .github/scripts/embed_pacman.py
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/assets/profile.svg
-          git commit -m "🟡 Update profile.svg with latest Pac-Man animation" || exit 0
+          git add .github/assets/profile.svg .github/assets/pacman.svg
+          git commit -m "🟡 Update Pac-Man contribution animation" || exit 0
           git push origin main

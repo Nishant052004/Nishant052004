@@ -186,16 +186,20 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               🟡 PAC-MAN CONTRIBUTION ARENA                       -->
+<!--               🟡 PAC-MAN CONTRIBUTION TABLE ARENA                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🟡 &nbsp; Pac-Man Contribution Arena</h2>
+<h2 align="center">🟡 &nbsp; Pac-Man Contribution Table</h2>
 
 <div align="center">
 
-  <p><i>ᗧ ••• Munching commits & clearing bugs across the grid</i></p>
+  <p><i>ᗧ ••• Munching commits & chasing ghosts across the live contribution table</i></p>
 
-  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/.github/assets/pacman.svg" width="100%" alt="Nishant's Pac-Man Contribution Graph" style="border-radius: 12px; max-width: 900px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishant052004/Nishant052004/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishant052004/Nishant052004/output/pacman-contribution-graph.svg">
+    <img alt="Nishant's Pac-Man Contribution Table" src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/output/pacman-contribution-graph-dark.svg" width="100%" style="border-radius: 12px; max-width: 900px;" />
+  </picture>
 
 </div>
 
