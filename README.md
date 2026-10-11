@@ -65,8 +65,8 @@
       <p align="center">Production-grade peer discovery network connecting voluntary blood donors and medical receivers with zero-leak privacy controls.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -91,66 +91,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Tech Stack & Verified Architecture
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="160"><b>🗣️ Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI / ML & Agents</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔧 DevOps & Tooling</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-> **📋 Verified Stack:** Every technology above corresponds directly to production implementations and actual repository dependencies across my work.
 
 ---
 
