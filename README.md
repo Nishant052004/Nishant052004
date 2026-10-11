@@ -48,6 +48,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-0072FF?style=flat-square)
 
 </td>
 </tr>
@@ -146,9 +148,11 @@
 
 <a href="https://resume-iq-ymnd.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00B4D8?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-0072FF?style=flat-square)
 
 </td>
 </tr>
@@ -175,6 +179,8 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-0072FF?style=flat-square)
 
 </td>
 </tr>
