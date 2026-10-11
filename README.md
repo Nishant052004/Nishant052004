@@ -1,100 +1,214 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--       NISHANT RAI · GITHUB PROFILE · NEON ARCHITECT THEME        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-  <!-- S-Rank Hero Banner -->
-  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/banner.jpg" width="100%" alt="Nishant Rai - AI & ML Engineer" style="border-radius: 12px; max-width: 950px; box-shadow: 0 0 30px rgba(0, 242, 254, 0.2);" />
+  <!-- ╔══════════════════════════════════════╗ -->
+  <!-- ║     ANIMATED HERO BANNER             ║ -->
+  <!-- ╚══════════════════════════════════════╝ -->
+
+  <a href="https://github.com/Nishant052004">
+    <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/assets/header.svg" width="100%" alt="Nishant Rai — Agentic AI Architect & Systems Engineer" />
+  </a>
+
+  <br/>
+
+  <!-- Dynamic Typing SVG -->
+  <a href="https://github.com/Nishant052004">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=600&height=30&lines=%E2%9A%A1+designing+autonomous+agents+that+think%2C+verify%2C+and+ship;%F0%9F%94%AE+3-agent+RAG+pipelines+with+anti-hallucination+gates;%F0%9F%9B%A1%EF%B8%8F+human-in-the-loop+safety+for+production+AI;%F0%9F%A9%B8+real-time+platforms+saving+real+lives;%F0%9F%8C%BF+computer+vision+diagnosing+crop+diseases+at+scale" alt="Typing SVG" />
+  </a>
 
   <br/><br/>
 
-  <!-- Dynamic Typing Headline in Electric Cyan -->
-  <a href="https://github.com/Nishant052004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=680&height=45&lines=%E2%9A%A1+Agentic+AI+%26+Autonomous+RAG+Architect;%F0%9F%A7%A0+Multi-Agent+Systems+%26+Intelligence+OS;%F0%9F%9B%A1%EF%B8%8F+HAULT%3A+Human-in-the-Loop+Safety+Pipelines;%F0%9F%9A%80+PulseBridge%3A+Real-Time+Full-Stack+Platforms" alt="Dynamic Typing Headline" />
-  </a>
+  <!-- Social Links — Neon Style -->
+  <a href="https://www.linkedin.com/in/nishant-rai-07a658387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:rainishant121@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/Nishant052004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-  <!-- Social Badges & Profile Views -->
-  <p>
-    <a href="https://www.linkedin.com/in/nishant-rai-07a658387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:rainishant121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    &nbsp;
-    <a href="https://github.com/Nishant052004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+  <br/><br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Nishant052004&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Profile Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Nishant052004&label=visitors&color=a855f7&style=flat-square" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-### 🚀 Selected Work & Production Deployments
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    ⚡ MISSION BRIEFINGS                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" />
+  &nbsp; Mission Briefings — Production Deployments
+</h2>
+
+<br/>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │                     LEXI · MULTI-AGENT OS                      │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/Nishant052004/LEXI">LEXI — Multi-Agent OS</a></h3>
-      <p align="center">Autonomous multi-agent intelligence platform orchestrating dynamic tool execution, reasoning workflows, and live task routing.</p>
-      <p align="center">
-        <a href="https://lexi-a6ra.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/Nishant052004/Agentic-RAG-Assistant">Agentic RAG Assistant</a></h3>
-      <p align="center">3-agent document Q&A architecture featuring retrieval, answering, and strict automated anti-hallucination verification.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ <a href="https://github.com/Nishant052004/Human-in-the-loop">HAULT: Human-in-the-Loop</a></h3>
-      <p align="center">DevOps command suite and safety framework ensuring policy compliance and human oversight in autonomous AI decision cycles.</p>
-      <p align="center">
-        <a href="https://human-in-the-loop-3thh.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/License-MIT-0072FF?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🩸 <a href="https://github.com/Nishant052004/PulseBridge-WEB">PulseBridge Platform</a></h3>
-      <p align="center">Production-grade peer discovery network connecting voluntary blood donors and medical receivers with zero-leak privacy controls.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 <a href="https://github.com/Nishant052004/RESUME-IQ">ResumeIQ — AI Screener</a></h3>
-      <p align="center">Intelligent candidate resume parser that analyzes skill gaps, scores role fit, and delivers actionable recommendations.</p>
-      <p align="center">
-        <a href="https://resume-iq-ymnd.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-00B4D8?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌿 <a href="https://github.com/Nishant052004/Plant-Diseases">FloraScan AI</a></h3>
-      <p align="center">Deep learning crop pathology solution providing instant leaf disease detection, risk diagnosis, and treatment suggestions.</p>
-      <p align="center">
-        <a href="https://plant-diseases-joky.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/01-a855f7?style=for-the-badge&logoColor=white" alt="01"/>
+</td>
+<td>
+
+### 🤖 [LEXI — Multi-Agent Intelligence OS](https://github.com/Nishant052004/LEXI)
+
+> Autonomous multi-agent platform that orchestrates dynamic tool execution, reasoning workflows,
+> and live task routing. Each agent specializes — one retrieves, one reasons, one executes.
+
+<a href="https://lexi-a6ra.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+</td>
+</tr>
 </table>
 
----
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │               AGENTIC RAG · VERIFIED RETRIEVAL                 │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
 
-### 👾 Interactive Terminal & Status Card
+<table>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/02-ec4899?style=for-the-badge&logoColor=white" alt="02"/>
+</td>
+<td>
+
+### ⚡ [Agentic RAG Assistant — Anti-Hallucination Pipeline](https://github.com/Nishant052004/Agentic-RAG-Assistant)
+
+> Three-agent document Q&A system: **Agent 1** retrieves relevant chunks, **Agent 2** synthesizes
+> an answer, **Agent 3** cross-verifies citations against source material to block hallucinations.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │                   HAULT · SAFETY FRAMEWORK                     │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
+
+<table>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/03-06b6d4?style=for-the-badge&logoColor=white" alt="03"/>
+</td>
+<td>
+
+### 🛡️ [HAULT — Human-in-the-Loop DevOps Command Suite](https://github.com/Nishant052004/Human-in-the-loop)
+
+> Safety governance framework providing real-time human oversight checkpoints for autonomous AI
+> decision pipelines. Policy gates ensure every critical action passes human review before execution.
+
+<a href="https://human-in-the-loop-3thh.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │                 PULSEBRIDGE · LIFE-SAVING PLATFORM              │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
+
+<table>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/04-f59e0b?style=for-the-badge&logoColor=white" alt="04"/>
+</td>
+<td>
+
+### 🩸 [PulseBridge — Life-Saving Connection Platform](https://github.com/Nishant052004/PulseBridge-WEB)
+
+> Privacy-first peer discovery network that connects voluntary blood donors with verified medical
+> receivers using deterministic smart matching, zero-leak contact protection, and real-time coordination.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │             RESUMEIQ + FLORASCAN · APPLIED AI                  │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
+
+<table>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/05-22c55e?style=for-the-badge&logoColor=white" alt="05"/>
+</td>
+<td>
+
+### 📄 [ResumeIQ — Intelligent Resume Screener](https://github.com/Nishant052004/RESUME-IQ) &nbsp;·&nbsp; 🌿 [FloraScan AI — Crop Pathology](https://github.com/Nishant052004/Plant-Diseases)
+
+> **ResumeIQ:** NLP-powered resume parser that scores role fit, identifies skill gaps, and delivers hiring recommendations.
+> **FloraScan:** Deep learning system for instant crop disease classification from leaf images with treatment guidance.
+
+<a href="https://resume-iq-ymnd.onrender.com"><img src="https://img.shields.io/badge/🌐_ResumeIQ_Demo-141414?style=flat-square" /></a>
+<a href="https://plant-diseases-joky.onrender.com"><img src="https://img.shields.io/badge/🌐_FloraScan_Demo-141414?style=flat-square" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-00B4D8?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   🧬 NEURAL MAP — TECH STACK                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🧬 &nbsp; Neural Map</h2>
+
+<div align="center">
+
+```
+                    ┌──────────────────────────────────────────────────────────┐
+                    │                    NISHANT RAI · STACK                   │
+                    ├──────────────────────────────────────────────────────────┤
+                    │                                                          │
+    INTELLIGENCE    │   Python · LangChain · ChromaDB · Gemini · TensorFlow   │
+                    │   scikit-learn · OpenAI · Streamlit · NLP · CV           │
+                    │                                                          │
+    BACKEND         │   FastAPI · Node.js · Express · Socket.io               │
+                    │                                                          │
+    FRONTEND        │   React · Next.js · Tailwind CSS · Vite                 │
+                    │                                                          │
+    DATA            │   PostgreSQL · MongoDB · Redis                           │
+                    │                                                          │
+    INFRA           │   Docker · Git · GitHub Actions · Render                │
+                    │                                                          │
+                    └──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   👾 INTERACTIVE STATUS CARD                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">👾 &nbsp; Interactive Status Card</h2>
 
 <div align="center">
 
@@ -102,35 +216,53 @@
 
 </div>
 
----
+<br/>
 
-### 📊 Real-Time GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    📊 SIGNAL TELEMETRY                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 &nbsp; Signal Telemetry</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant052004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&ring_color=00F2FE" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant052004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&langs_count=7" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nishant052004&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&ring_color=a855f7" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant052004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=a855f7&text_color=c9d1d9&langs_count=7" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nishant052004&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=FF6B35&currStreakNum=00F2FE&sideNums=c9d1d9&currStreakLabel=00F2FE&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nishant052004&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=a855f7&fire=ec4899&currStreakNum=a855f7&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=444444" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant052004&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F2FE&line=00F2FE&point=FF6B35&area=true&area_color=00F2FE" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant052004&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&color=a855f7&line=ec4899&point=f59e0b&area=true&area_color=a855f7" alt="Activity Graph" width="95%" />
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Dev Quote" />
 
   <br/><br/>
 
-  <sub>⚡ Engineered with passion by <b>Nishant Rai</b> • Built with precision</sub>
+  ```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   Built by Nishant Rai                                       ║
+  ║   Every system deployed. Every badge earned.                 ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+  ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F2FE,100:0072FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:a855f7,70:ec4899,100:06b6d4&height=100&section=footer" width="100%" />
