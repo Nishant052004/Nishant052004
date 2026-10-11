@@ -97,6 +97,8 @@
 <a href="https://human-in-the-loop-3thh.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-0072FF?style=flat-square)
 
 </td>
 </tr>
@@ -127,7 +129,7 @@
 </table>
 
 <!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!-- │             RESUMEIQ + FLORASCAN · APPLIED AI                  │ -->
+<!-- │                 RESUMEIQ · APPLIED AI SCREENER                  │ -->
 <!-- └─────────────────────────────────────────────────────────────────┘ -->
 
 <table>
@@ -137,16 +139,42 @@
 </td>
 <td>
 
-### 📄 [ResumeIQ — Intelligent Resume Screener](https://github.com/Nishant052004/RESUME-IQ) &nbsp;·&nbsp; 🌿 [FloraScan AI — Crop Pathology](https://github.com/Nishant052004/Plant-Diseases)
+### 📄 [ResumeIQ — Intelligent Resume Screener](https://github.com/Nishant052004/RESUME-IQ)
 
-> **ResumeIQ:** NLP-powered resume parser that scores role fit, identifies skill gaps, and delivers hiring recommendations.
-> **FloraScan:** Deep learning system for instant crop disease classification from leaf images with treatment guidance.
+> NLP-powered candidate resume parser that evaluates role fit, extracts candidate experience,
+> analyzes skill gaps, and delivers actionable hiring recommendations.
 
-<a href="https://resume-iq-ymnd.onrender.com"><img src="https://img.shields.io/badge/🌐_ResumeIQ_Demo-141414?style=flat-square" /></a>
-<a href="https://plant-diseases-joky.onrender.com"><img src="https://img.shields.io/badge/🌐_FloraScan_Demo-141414?style=flat-square" /></a>
+<a href="https://resume-iq-ymnd.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00B4D8?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
+<!-- │             FLORASCAN AI · CROP PATHOLOGY & CV                  │ -->
+<!-- └─────────────────────────────────────────────────────────────────┘ -->
+
+<table>
+<tr>
+<td width="60" align="center">
+  <img src="https://img.shields.io/badge/06-a855f7?style=for-the-badge&logoColor=white" alt="06"/>
+</td>
+<td>
+
+### 🌿 [FloraScan AI — Smart Plant Pathology & Crop Protection](https://github.com/Nishant052004/Plant-Diseases)
+
+> Deep learning computer vision pipeline for automated crop leaf disease detection,
+> risk severity diagnosis, and instant disease mitigation guidance.
+
+<a href="https://plant-diseases-joky.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-00B4D8?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
 </tr>
@@ -223,13 +251,7 @@
   <img src="https://streak-stats.demolab.com/?user=Nishant052004&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=a855f7&fire=ec4899&currStreakNum=a855f7&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=444444" alt="GitHub Streak" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant052004&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&color=a855f7&line=ec4899&point=f59e0b&area=true&area_color=a855f7" alt="Activity Graph" width="95%" />
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        FOOTER                                     -->
