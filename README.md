@@ -71,10 +71,13 @@
 > Three-agent document Q&A system: **Agent 1** retrieves relevant chunks, **Agent 2** synthesizes
 > an answer, **Agent 3** cross-verifies citations against source material to block hallucinations.
 
+<a href="https://agentic-rag-assistant-fdy8im2emrsdgw7ttelwyu.streamlit.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-141414?style=flat-square" /></a>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-0072FF?style=flat-square)
 
 </td>
 </tr>
