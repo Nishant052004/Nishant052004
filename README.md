@@ -185,7 +185,21 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               🟡 PAC-MAN CONTRIBUTION ARENA                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">🟡 &nbsp; Pac-Man Contribution Arena</h2>
+
+<div align="center">
+
+  <p><i>ᗧ ••• Munching commits & clearing bugs across the grid</i></p>
+
+  <img src="https://raw.githubusercontent.com/Nishant052004/Nishant052004/main/.github/assets/pacman.svg" width="100%" alt="Nishant's Pac-Man Contribution Graph" style="border-radius: 12px; max-width: 900px;" />
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    📊 SIGNAL TELEMETRY                            -->
